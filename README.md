@@ -1,7 +1,7 @@
 # IoT-Smart-Pi-Greenhouse
 
 ## Introduction
-Welcome to the Smart Pi Greenhouse project repository! This project addresses the challenges in modern agriculture by leveraging IoT technology to create a smart mini greenhouse. Our solution, powered by Raspberry Pi, integrates advanced sensors and actuators to monitor and regulate environmental conditions for optimal plant growth.
+Welcome to the Smart Pi Greenhouse project repository! This project addresses the challenges in modern agriculture by leveraging IoT technology to create a smart mini greenhouse. Our solution, powered by Raspberry Pi, integrates advanced sensors and actuators to monitor and regulate environmental conditions for optimal plant growth. This collaborative endeavor was undertaken by myself and Naif for the coursework on the Internet of Things.
 
 ## Problem
 Traditional agriculture struggles to maintain precise environmental conditions, leading to resource inefficiencies and suboptimal plant growth. The Smart Pi Greenhouse aims to overcome these challenges through accurate monitoring and control, enhancing agricultural efficiency and sustainability.
@@ -11,6 +11,10 @@ Our IoT-based mini greenhouse utilizes a Raspberry Pi as the central control uni
 
 ## Deliverables
 The project delivers a fully operational smart greenhouse model, showcasing real-time environmental monitoring, automated control systems, and the integration of IoT technology for enhanced agricultural efficiency.
+
+
+## Architecture
+![image](https://github.com/Sin-Aman/IoT-Smart-Pi-Greenhouse/assets/108439592/1c501d11-68ad-4a6d-9073-5dcf61b24502)
 
 ## Hardware Components:
 -	Raspberry Pi 3b+: At the heart of our mini greenhouse project, the Raspberry Pi 3b+ serves as the brain, orchestrating communication and control among all components. This credit-card-sized computer allows us to program and automate the greenhouse's responses based on data from the sensors.
