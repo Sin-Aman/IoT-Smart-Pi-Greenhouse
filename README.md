@@ -31,7 +31,6 @@ Our IoT-based mini greenhouse utilizes a Raspberry Pi as the central control uni
 -	VNC Viewer: Allows for remote graphical desktop sharing, enabling you to access and interact with the Raspberry Pi's desktop environment from another device.
 
 ## Deliverables
-The project delivers a fully operational smart greenhouse model, showcasing real-time environmental monitoring, automated control systems, and the integration of IoT technology for enhanced agricultural efficiency.
-<img src="[IMG_6747](https://github.com/Sin-Aman/IoT-Smart-Pi-Greenhouse/assets/108439592/74e0176f-dce1-4940-82e3-c94d794253be)" width="200" height="200"/>
+The project delivers a fully operational smart greenhouse model, showcasing real-time environmental monitoring, automated control systems, and the integration of IoT technology for enhanced agricultural efficiency. The working videos and images of the project can be found in the media folder of this repository. 
 
 
