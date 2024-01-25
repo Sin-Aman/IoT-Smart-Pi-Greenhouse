@@ -9,10 +9,6 @@ Traditional agriculture struggles to maintain precise environmental conditions, 
 ## Solution
 Our IoT-based mini greenhouse utilizes a Raspberry Pi as the central control unit. It incorporates a DHT22 sensor for humidity and temperature, a soil moisture sensor, a servo motor for window automation, and a fan motor for temperature regulation.
 
-## Deliverables
-The project delivers a fully operational smart greenhouse model, showcasing real-time environmental monitoring, automated control systems, and the integration of IoT technology for enhanced agricultural efficiency.
-
-
 ## Architecture
 ![image](https://github.com/Sin-Aman/IoT-Smart-Pi-Greenhouse/assets/108439592/1c501d11-68ad-4a6d-9073-5dcf61b24502)
 
@@ -33,5 +29,9 @@ The project delivers a fully operational smart greenhouse model, showcasing real
 -	Integrated Development Environment (IDE): The software application used for writing the Python code that controls the greenhouse system. The specific IDE isn't mentioned, but it could be something like Thonny, which is commonly used with Raspberry Pi.
 -	PuTTY: This terminal emulator application is used for remote access to Raspberry Pi's command line interface over SSH, enabling code management and system operation from a different computer.
 -	VNC Viewer: Allows for remote graphical desktop sharing, enabling you to access and interact with the Raspberry Pi's desktop environment from another device.
+
+## Deliverables
+The project delivers a fully operational smart greenhouse model, showcasing real-time environmental monitoring, automated control systems, and the integration of IoT technology for enhanced agricultural efficiency.
+![IMG_6747](https://github.com/Sin-Aman/IoT-Smart-Pi-Greenhouse/assets/108439592/74e0176f-dce1-4940-82e3-c94d794253be)
 
 
